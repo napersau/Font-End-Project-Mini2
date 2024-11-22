@@ -51,7 +51,7 @@
 
 .section-one{
     position: relative;
-    background-image: url(/assets/images/banner-bg.png);
+    background-image: url(../images/banner-bg.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
